@@ -4,7 +4,7 @@ Tags: weather, widget, jma, forecast, ui
 Requires at least: 5.0
 Tested up to: 6.4
 Requires PHP: 8.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -89,6 +89,10 @@ weather-card/
 ・ブラウザキャッシュをクリア
 
 == Changelog ==
+
+= 1.1.0 =
+・テキスト修正
+・更新確認
 
 = 1.0.0 =
 ・初回リリース

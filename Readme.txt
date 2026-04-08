@@ -4,7 +4,7 @@ Tags: weather, widget, jma, forecast, ui
 Requires at least: 5.0
 Tested up to: 6.4
 Requires PHP: 8.0
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,7 @@ Weather Card Widget (JMA) は、日本の気象庁が提供する天気予報APIを利用し、
 == Installation ==
 
 1. プラグインフォルダを作成します
-   wp-content/plugins/weather-card/
+   wp-content/plugins/wp-weather-card/
 
 2. 以下のファイルを配置
    - weather-card.php
@@ -46,7 +46,7 @@ Weather Card Widget (JMA) は、日本の気象庁が提供する天気予報APIを利用し、
 
 == Folder Structure ==
 
-weather-card/
+wp-weather-card/
 ├─ weather-card.php
 └─ icons/
    ├─ sun.png
@@ -89,6 +89,9 @@ weather-card/
 ・ブラウザキャッシュをクリア
 
 == Changelog ==
+
+= 1.2.0 =
+・テキスト修正
 
 = 1.1.0 =
 ・テキスト修正

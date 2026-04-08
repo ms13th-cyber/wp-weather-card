@@ -2,7 +2,7 @@
 /*
 Plugin Name: Weather Card Widget
 Description: 気象庁APIで右下に天気カード表示（画像アイコン・背景色対応）
-Version: 1.1
+Version: 1.2
 Tested up to: 6.9.4
 Requires PHP: 8.3.23
 Author: masato shibuya(Image-box Co., Ltd.)

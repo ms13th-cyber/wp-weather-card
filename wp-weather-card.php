@@ -2,8 +2,8 @@
 /*
 Plugin Name: Weather Card Widget
 Description: 気象庁APIで右下に天気カード表示（全国150区域対応版）
-Version: 2.0.0
-Tested up to: 6.9.4
+Version: 2.0.1
+Tested up to: 7.0.0
 Requires PHP: 8.0
 Author: masato shibuya(Image-box Co., Ltd.)
 */
